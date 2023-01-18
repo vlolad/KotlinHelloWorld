@@ -1,7 +1,11 @@
 fun main() {
 
-    var game = RPSGame()
+    //SayHello.sayHello()
 
-    game.startGame()
+    //ScanNumber.checkInputIsOdd()
+
+    /*val game = RPSGame()
+    game.startGame()*/
+
 }
 
